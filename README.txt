@@ -1,5 +1,5 @@
 README for ~/robots
-Author: Tanya L. Crenshaw's
+Author: Tanya L. Crenshaw
 
 This is a small program that is utilized as an example for the
 author's blog post entitled "A long post about Git" available at
